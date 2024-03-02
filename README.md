@@ -1,3 +1,3 @@
 # feadback_app
 
-![demo video](./demo/_demo.webm)
+<video src="./demo/demo.mp4" width="400" controls></video>
